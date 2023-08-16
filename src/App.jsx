@@ -5,6 +5,7 @@ export const AppContext = createContext()
 import Main from './layouts/Main/Main'
 import Home from './pages/Home/Home'
 import Error from './pages/Error/Error'
+import GrupA from './pages/GrupA/GrupA'
 
 const router = createBrowserRouter([
   {
@@ -15,6 +16,11 @@ const router = createBrowserRouter([
       {
         index: true,
         element: <Home />,
+        errorElement: <Error />,
+      },
+      {
+        path: '/grupa-A',
+        element: <GrupA />,
         errorElement: <Error />,
       },
 

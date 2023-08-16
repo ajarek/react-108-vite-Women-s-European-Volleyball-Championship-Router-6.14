@@ -46,3 +46,16 @@ left: 0;
   gap: 16px;
  place-items: center;
 }
+.grup-wrapper{
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  grid-template-rows: repeat(6, 1fr);
+  margin-bottom: 32px;
+}
+.grup-name{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border:1px solid var(--grey);
+}

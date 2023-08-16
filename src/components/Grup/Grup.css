@@ -1,0 +1,11 @@
+.grup{
+  width: 100%;
+  display: flex;
+  border:1px solid var(--grey);
+  align-items: center;
+  padding: 8px;
+  background-color: var(--grey-light);
+}
+.grup span{
+  margin-left: 8px;
+}

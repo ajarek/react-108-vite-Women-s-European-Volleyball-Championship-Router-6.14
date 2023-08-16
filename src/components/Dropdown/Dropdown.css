@@ -1,0 +1,35 @@
+.dropdown{
+  position: relative;
+}
+.dropdown-toggle{
+  background-color: transparent;
+  border: none;
+  font-size: 1.5rem;
+  color: var(--black);
+  padding: 0 16px;
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+}
+.dropdown-menu{
+  background-color: var(--yellow);
+  position: absolute;
+  top: 40px;
+  left: -30px;
+  width: 120px;
+  display: flex;
+  flex-direction: column;
+  z-index: 5;
+}
+.dropdown-menu .link {
+  text-decoration: none;
+  font-size: 1.5rem;
+  color: var(--black);
+  padding: 0 8px;
+  transition: all 0.3s ease-in-out;
+}
+
+.dropdown-menu .link:hover,
+.dropdown-menu .link:focus {
+  color: var(--blueViolet);
+  background-color: var(--lightBlueviolet);
+}

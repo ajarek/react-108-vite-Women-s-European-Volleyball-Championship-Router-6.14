@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import Hamburger from 'hamburger-react'
-
+import Dropdown from '../Dropdown/Dropdown'
 import './Nav.css'
 
 const Nav = () => {
@@ -20,12 +20,7 @@ const Nav = () => {
       </Link>
 
       <ul className={!isOpen ? 'wrapper' : 'wrapper navbar-none'}>
-        <Link
-          className='link link-text'
-          to={'/'}
-        >
-          Home
-        </Link>
+        <Dropdown/>
         
       </ul>
       <div className='hamburger'>

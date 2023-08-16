@@ -1,0 +1,149 @@
+[
+  {
+    "id": "1",
+    "flag": "/images/belgia.webp",
+    "country": "Belgia",
+    "group": "A"
+  },
+  {
+    "id": "2",
+    "flag": "/images/italia.webp",
+    "country": "Włochy",
+    "group": "B"
+  },
+  {
+    "id": "3",
+    "flag": "/images/germany.webp",
+    "country": "Niemcy",
+    "group": "C"
+  },
+  {
+    "id": "4",
+    "flag": "/images/estonia.webp",
+    "country": "Estonia",
+    "group": "D"
+  },
+  {
+    "id": "5",
+    "flag": "/images/slovenia.webp",
+    "country": "Słowenia",
+    "group": "A"
+  },
+  {
+    "id": "6",
+    "flag": "/images/romania.webp",
+    "country": "Rumunia",
+    "group": "B"
+  },
+  {
+    "id": "7",
+    "flag": "/images/azerbaijan.webp",
+    "country": "Azerbejdzan",
+    "group": "C"
+  },
+  {
+    "id": "8",
+    "flag": "/images/finland.webp",
+    "country": "Finlandia",
+    "group": "D"
+  },
+  {
+    "id": "9",
+    "flag": "/images/serbia.webp",
+    "country": "Serbia",
+    "group": "A"
+  },
+  {
+    "id": "10",
+    "flag": "/images/bulgaria.webp",
+    "country": "Bułgaria",
+    "group": "B"
+  },
+  {
+    "id": "11",
+    "flag": "/images/turkey.webp",
+    "country": "Turcja",
+    "group": "C"
+  },
+  {
+    "id": "12",
+    "flag": "/images/netherlands.webp",
+    "country": "Holandia",
+    "group": "D"
+  },
+  {
+    "id": "13",
+    "flag": "/images/poland.webp",
+    "country": "Polska",
+    "group": "A"
+  },
+  {
+    "id": "14",
+    "flag": "/images/croatia.webp",
+    "country": "Chorwacja",
+    "group": "B"
+  },
+  {
+    "id": "15",
+    "flag": "/images/czech.webp",
+    "country": "Czechy",
+    "group": "C"
+  },
+  {
+    "id": "16",
+    "flag": "/images/france.webp",
+    "country": "Francja",
+    "group": "D"
+  },
+  {
+    "id": "17",
+    "flag": "/images/ukraine.webp",
+    "country": "Ukraina",
+    "group": "A"
+  },
+  {
+    "id": "18",
+    "flag": "/images/b&h.webp",
+    "country": "Bośnia i Hercegowina",
+    "group": "B"
+  },
+  {
+    "id": "19",
+    "flag": "/images/sweden.webp",
+    "country": "Szwecja",
+    "group": "C"
+  },
+  {
+    "id": "20",
+    "flag": "/images/slovakia.webp",
+    "country": "Słowacja",
+    "group": "D"
+  },
+
+  {
+    "id": "21",
+    "flag": "/images/hungary.webp",
+    "country": "Węgry",
+    "group": "A"
+  },
+  {
+    "id": "22",
+    "flag": "/images/switzerland.webp",
+    "country": "Szwajcaria",
+    "group": "B"
+  },
+
+  {
+    "id": "23",
+    "flag": "/images/greece.webp",
+    "country": "Grecja",
+    "group": "C"
+  },
+
+  {
+    "id": "24",
+    "flag": "/images/spain.webp",
+    "country": "Hiszpania",
+    "group": "D"
+  }
+]
