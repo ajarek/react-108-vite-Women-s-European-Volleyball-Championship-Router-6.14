@@ -1,9 +1,12 @@
+
 import Table from '../../components/Table/Table'
+import TableResult from '../../components/TableResult/TableResult'
 import './GrupA.css'
 
 const GrupA = () => {
   return (
-    <div>
+    <div className='grup-a'>
+     <TableResult/>
       <Table/>
     </div>
   )

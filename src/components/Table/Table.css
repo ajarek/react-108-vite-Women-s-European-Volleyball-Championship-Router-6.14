@@ -2,7 +2,7 @@ table,
 th,
 td {
   border: 1px solid;
-  text-align: right;
+  text-align: left;
 }
 
 table {
@@ -24,12 +24,15 @@ td {
 }
 td{
   background-color: var(--grey-light);
+ 
 }
+
 th {
   position: sticky;
   top: 0;
   background: #fff;
   vertical-align: bottom;
+ 
 }
 table input{
   height: 35px;

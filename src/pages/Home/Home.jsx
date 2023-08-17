@@ -14,8 +14,8 @@ const Home = () => {
       </div>
       <h3>Podział na grupy:</h3>
       <div className="grup-wrapper">
-        <div className='grup-name'>Grupa B</div>
         <div className='grup-name'>Grupa A</div>
+        <div className='grup-name'>Grupa B</div>
         <div className='grup-name'>Grupa C</div>
         <div className='grup-name'>Grupa D</div>
        {countries.map(cs=>{
