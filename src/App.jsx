@@ -6,6 +6,7 @@ import Main from './layouts/Main/Main'
 import Home from './pages/Home/Home'
 import Error from './pages/Error/Error'
 import GrupA from './pages/GrupA/GrupA'
+import GrupB from './pages/GrupB/GrupB';
 
 const router = createBrowserRouter([
   {
@@ -21,6 +22,11 @@ const router = createBrowserRouter([
       {
         path: '/grupa-A',
         element: <GrupA />,
+        errorElement: <Error />,
+      },
+      {
+        path: '/grupa-B',
+        element: <GrupB />,
         errorElement: <Error />,
       },
 
