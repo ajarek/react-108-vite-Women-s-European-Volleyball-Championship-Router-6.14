@@ -25,24 +25,7 @@ const Dropdown = () => {
         >
           Grupa A
         </Link>
-        <Link
-          className='link'
-          to={'/grupa-B'}
-        >
-          Grupa B
-        </Link>
-        <Link
-          className='link'
-          to={'/grupa-C'}
-        >
-          Grupa C
-        </Link>
-        <Link
-          className='link'
-          to={'/grupa-D'}
-        >
-          Grupa D
-        </Link>
+        
         </div>
       )}
     </div>

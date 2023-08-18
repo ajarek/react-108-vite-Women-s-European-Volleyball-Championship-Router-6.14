@@ -42,8 +42,8 @@ const Table = () => {
             <td>17:00</td>
             <td>{selectCountry('Serbia')}</td>
             <td>{selectCountry('Ukraina')}</td>
-            <td>0-0</td>
-            <td>0-0</td>
+            <td>3-0</td>
+            <td>75-49</td>
             
           </tr>
           <tr>
@@ -51,8 +51,8 @@ const Table = () => {
             <td>20:00</td>
             <td>{selectCountry('Słowenia')}</td>
             <td>{selectCountry('Polska')}</td>
-            <td>0-0</td>
-            <td>0-0</td>
+            <td>0-3</td>
+            <td>52-75</td>
             
           </tr>
           <tr>

@@ -26,8 +26,17 @@ const TableResult = () => {
           </tr>
         </thead>
         <tbody>
-          <tr>
+        <tr>
             <td>1</td>
+            <td>{selectCountry('Serbia')}</td>
+            <td>1</td>
+            <td>3</td>
+            <td>75</td>
+            <td>49</td>
+            
+          </tr>
+          <tr>
+            <td>2</td>
             <td>{selectCountry('Belgia')}</td>
             <td>1</td>
             <td>3</td>
@@ -36,50 +45,43 @@ const TableResult = () => {
             
           </tr>
            <tr>
-            <td>2</td>
-            <td>{selectCountry('Polska')}</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
-            
-          </tr>
-          <tr>
             <td>3</td>
-            <td>{selectCountry('Serbia')}</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
+            <td>{selectCountry('Polska')}</td>
+            <td>1</td>
+            <td>3</td>
+            <td>75</td>
+            <td>52</td>
             
           </tr>
+          
           <tr>
             <td>4</td>
             <td>{selectCountry('Słowenia')}</td>
             <td>0</td>
             <td>0</td>
-            <td>0</td>
-            <td>0</td>
+            <td>52</td>
+            <td>75</td>
             
           </tr>
           <tr>
             <td>5</td>
-            <td>{selectCountry('Ukraina')}</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
-            
-          </tr>
-          <tr>
-            <td>6</td>
             <td>{selectCountry('Węgry')}</td>
             <td>0</td>
             <td>0</td>
-            <td>0</td>
+            <td>50</td>
             <td>75</td>
             
           </tr> 
+          <tr>
+            <td>6</td>
+            <td>{selectCountry('Ukraina')}</td>
+            <td>0</td>
+            <td>0</td>
+            <td>49</td>
+            <td>75</td>
+            
+          </tr>
+         
           </tbody>
           </table>
     </div>
