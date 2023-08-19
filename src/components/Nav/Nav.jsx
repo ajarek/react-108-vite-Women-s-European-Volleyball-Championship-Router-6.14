@@ -21,6 +21,9 @@ const Nav = () => {
 
       <ul className={!isOpen ? 'wrapper' : 'wrapper navbar-none'}>
         <Dropdown/>
+        <Link className='link' to={'runda-finałowa'}>
+          Runda Finałowa
+        </Link>
         
       </ul>
       <div className='hamburger'>

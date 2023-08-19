@@ -60,16 +60,16 @@ const Table = () => {
             <td>17:00</td>
             <td>{selectCountry('Ukraina')}</td>
             <td>{selectCountry('Węgry')}</td>
-            <td>0-0</td>
-            <td>0-0</td>  
+            <td>3-0</td>
+            <td>75-49</td>  
           </tr>
           <tr>
             <td>19-08</td>
             <td>20:00</td>
             <td>{selectCountry('Słowenia')}</td>
             <td>{selectCountry('Belgia')}</td>
-            <td>0-0</td>
-            <td>0-0</td>  
+            <td>1-3</td>
+            <td>95-105</td>  
           </tr>
           <tr>
             <td>20-08</td>
