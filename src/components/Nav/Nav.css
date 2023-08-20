@@ -118,10 +118,13 @@
     width: 80%;
   }
 
-  .nav .logo h1 {
-    font-size: 1.2rem;
-    text-align: center;
-  }
+  .nav .link-logo h1 {
+    width: 300px;
+    font-size: 1rem;
+    font-weight: 400;
+    color: var(--black);
+    margin-left: 8px;
+  } 
 
   .nav .logo .img {
     width: 20px;

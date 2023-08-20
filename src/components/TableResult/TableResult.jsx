@@ -28,6 +28,15 @@ const TableResult = () => {
         <tbody>
         <tr>
             <td>1</td>
+            <td>{selectCountry('Serbia')}</td>
+            <td>2</td>
+            <td>6</td>
+            <td>6</td>
+            <td>0</td>
+            
+          </tr>
+        <tr>
+            <td>2</td>
             <td>{selectCountry('Belgia')}</td>
             <td>2</td>
             <td>6</td>
@@ -35,23 +44,15 @@ const TableResult = () => {
             <td>1</td>
             
           </tr>
-        <tr>
-            <td>2</td>
-            <td>{selectCountry('Serbia')}</td>
-            <td>1</td>
-            <td>3</td>
-            <td>3</td>
-            <td>0</td>
-            
-          </tr>
+       
           
            <tr>
             <td>3</td>
             <td>{selectCountry('Polska')}</td>
+            <td>2</td>
+            <td>6</td>
+            <td>6</td>
             <td>1</td>
-            <td>3</td>
-            <td>3</td>
-            <td>0</td>
             
           </tr>
           <tr>
@@ -69,7 +70,7 @@ const TableResult = () => {
             <td>0</td>
             <td>0</td>
             <td>1</td>
-            <td>6</td>
+            <td>9</td>
             
           </tr>
           <tr>
@@ -77,8 +78,8 @@ const TableResult = () => {
             <td>{selectCountry('Węgry')}</td>
             <td>0</td>
             <td>0</td>
-            <td>0</td>
-            <td>6</td>
+            <td>1</td>
+            <td>9</td>
             
           </tr> 
         

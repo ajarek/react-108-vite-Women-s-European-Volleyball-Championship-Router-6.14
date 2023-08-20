@@ -54,7 +54,7 @@ table input{
   }
   th,
   td {
-    padding: 0;
+    padding: 2px;
     text-align: left;
     font-size: 0.6rem;
     font-weight: 600;

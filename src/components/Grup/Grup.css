@@ -9,3 +9,9 @@
 .grup span{
   margin-left: 8px;
 }
+@media (max-width:820px) {
+  .grup{
+    padding: 0px;
+    max-width:75px ;
+  }
+}

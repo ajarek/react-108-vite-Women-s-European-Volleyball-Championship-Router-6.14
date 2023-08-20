@@ -59,3 +59,8 @@ left: 0;
   justify-content: center;
   border:1px solid var(--grey);
 }
+@media (max-width:820px) {
+  .baner h4{
+  font-size: 1.1rem;
+  }
+}
